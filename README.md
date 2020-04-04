@@ -1,5 +1,6 @@
 # Lab-05-Deploy
-Feature #1: Deployment
+
+## Feature #1: Deployment
 
 Estimate of time needed to complete: 2 hours
 
@@ -10,7 +11,8 @@ Finish time: 12
 Actual time needed to complete: 3 hours
 
 
-Feature #2: Add functionality
+
+## Feature #2: Add functionality
 Estimate of time needed to complete: 2 hours
 
 Start time: i will start another time
